@@ -1,5 +1,4 @@
 ---
----
 title: "Downlink Performance Enhancement of High-Velocity Users in 5G Networks by Configuring Antenna System"
 collection: publications
 permalink: /publication/2022-downlink-performance-high-velocity-5g
