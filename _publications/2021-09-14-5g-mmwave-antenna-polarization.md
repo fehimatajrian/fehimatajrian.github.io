@@ -9,10 +9,6 @@ venue: '2021 International Conference on Electronics, Communications and Informa
 
 paperurl: 'https://doi.org/10.1109/ICECIT54077.2021.9641400'
 
-citation:''
----
-
-**Recommended Citation:**  
-T. K. Tandra, F. Tajrian, A. Hossain, M. T. Kawser, M. R. Akram and A. B. Shams, "Joint Transmission Coordinated Multipoint on Mobile Users in 5G Heterogeneous Network," *2022 IEEE 2nd Conference on Information Technology and Data Science (CITDS)*, Debrecen, Hungary, 2022, pp. 273-278, doi: 10.1109/CITDS54976.2022.9914149.
+citation:"F. Tajrian, M. A. I. Sarder, M. S. Anzum, M. Rafique and A. Bin Shams, Impact of Receiver Antenna Polarization and Resource Scheduler on the Downlink Performance of High Velocity Users in 5G Millimeter Wave Small Cell Technology, 2021 International Conference on Electronics, Communications and Information Technology (ICECIT), Khulna, Bangladesh, 2021, pp. 1-4, doi: 10.1109/ICECIT54077.2021.9641400."
 ---
 
