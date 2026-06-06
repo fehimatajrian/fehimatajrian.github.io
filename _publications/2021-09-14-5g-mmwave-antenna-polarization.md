@@ -9,6 +9,6 @@ venue: '2021 International Conference on Electronics, Communications and Informa
 
 paperurl: 'https://doi: 10.1109/ICECIT54077.2021.9641400'
 
-citation:'F. Tajrian, M. A. I. Sarder, M. S. Anzum, M. Rafique and A. Bin Shams, &quot;Impact of Receiver Antenna Polarization and Resource Scheduler on the Downlink Performance of High Velocity Users in 5G Millimeter Wave Small Cell Technology,&quot; <i>2021 International Conference on Electronics, Communications and Information Technology (ICECIT)</i>, Khulna, Bangladesh, 2021, pp. 1-4, doi: 10.1109/ICECIT54077.2021.9641400.'
+citation: | F. Tajrian, M. A. I. Sarder, M. S. Anzum, M. Rafique and A. Bin Shams, "Impact of Receiver Antenna Polarization and Resource Scheduler on the Downlink Performance of High Velocity Users in 5G Millimeter Wave Small Cell Technology," 2021 International Conference on Electronics, Communications and Information Technology (ICECIT), Khulna, Bangladesh, 2021, pp. 1-4, doi: 10.1109/ICECIT54077.2021.9641400.
 
 ---
