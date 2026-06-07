@@ -10,13 +10,6 @@ citation: "M. A. I. Sarder, F. Tajrian, M. Rafique, M. Anzum and A. B. Shams, \"
 
 ---
 
-## Keywords
-<span style="background-color: #f0f2f5; color: #333; padding: 4px 12px; border-radius: 16px; font-size: 0.85em; display: inline-block; margin-right: 6px; border: 1px solid #dcdcdc;">5G MU-MIMO</span>
-<span style="background-color: #f0f2f5; color: #333; padding: 4px 12px; border-radius: 16px; font-size: 0.85em; display: inline-block; margin-right: 6px; border: 1px solid #dcdcdc;">Antenna Configuration</span>
-<span style="background-color: #f0f2f5; color: #333; padding: 4px 12px; border-radius: 16px; font-size: 0.85em; display: inline-block; margin-right: 6px; border: 1px solid #dcdcdc;">High Velocity Users</span>
-
-## Abstract
-Paste your research abstract paragraph here.
 
 
 
