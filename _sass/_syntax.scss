@@ -122,3 +122,19 @@ div.highlighter-rouge, figure.highlight {
 .highlight .vg { color: #22b3eb } /* Name.Variable.Global */
 .highlight .vi { color: #22b3eb } /* Name.Variable.Instance */
 .highlight .il { color: #2aa198 } /* Literal.Number.Integer.Long */
+
+/* 1. Global Font Override: Force Open Sans at 14px everywhere */
+body, p, li, .page__content {
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 14px !important;
+  line-height: 1.6 !important;
+}
+
+/* 2. Strip out the ugly auto-generated download blocks and tables on single paper pages */
+.single-publications {
+  .page__meta, 
+  .page__content table, 
+  .notice--info {
+    display: none !important;
+  }
+}
