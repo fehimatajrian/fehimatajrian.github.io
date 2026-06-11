@@ -1,9 +1,10 @@
 ---
 title: "Impact of Receiver Antenna Polarization and Resource Scheduler on the Downlink Performance of High Velocity Users in 5G Millimeter Wave Small Cell Technology"
 collection: publications
-permalink: /publication/2021-5g-mmwave-antenna-polarization
+permalink: /publication/5g-mmwave-antenna-polarization-performance
 date: 2021-09-14
 link: "https://doi.org/10.1109/ICECIT54077.2021.9641400"
+
 ---
 
 <div style="font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 1.6;" markdown="1">
